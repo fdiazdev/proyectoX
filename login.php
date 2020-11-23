@@ -25,4 +25,9 @@ require_once('php/funciones_inicio.php');
 ?>
 <?php
 require_once('php/footer.php');
+/*
+
+FUCK SOCIETY
+
+*/
 ?>
